@@ -1,0 +1,10 @@
+{
+    "name": "project/fuel",
+    "authors": [
+        {
+            "name": "Israel Meiresonne",
+            "email": "israelmeiresonne.iandmeim@gmail.com"
+        }
+    ],
+    "require": {}
+}
