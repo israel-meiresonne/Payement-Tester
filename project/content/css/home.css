@@ -23,7 +23,7 @@ body{
 .card_inner {
     height: 100%;
     color: wheat;
-    background-color: #035096 !important;
+    background-color: #035096;
     border-radius: 10px;
     border: #fff 1px double;
 }
